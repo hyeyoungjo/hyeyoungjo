@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hyeyoungjo
-- 👀 I’m interested in mixed reality and human computer interaction(HCI)
+- 👋 Hi, I’m @hyeyoungjo, a human computer interaction(HCI) researcher.
+- 👀 I’m interested in mixed reality, computer vision, and physical prototyping.
 
 <!---
 hyeyoungjo/hyeyoungjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
